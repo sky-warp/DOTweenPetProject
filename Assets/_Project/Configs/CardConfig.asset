@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b01e99da46153c45b1fdf5080abc6cb, type: 3}
+  m_Name: CardConfig
+  m_EditorClassIdentifier: 
+  _cardData:
+  - _identifier: Coal
+    _sprite: {fileID: 21300000, guid: e86c7196f272e4b4ab31404608ff073a, type: 3}
+  - _identifier: Diamond
+    _sprite: {fileID: 21300000, guid: db6ac5aa6c2e8544bacad84b95860237, type: 3}
+  - _identifier: Crystal
+    _sprite: {fileID: 21300000, guid: dc417edcd1196804c8cc1a8ebbfd551d, type: 3}
+  - _identifier: Emerald
+    _sprite: {fileID: 21300000, guid: 157c83183cd9fc041b4b471bc8acc9c8, type: 3}
+  - _identifier: Obsidian
+    _sprite: {fileID: 21300000, guid: b5d2523211c5a5e479246592aec1496d, type: 3}
+  - _identifier: Pearl
+    _sprite: {fileID: 21300000, guid: 3c6dc4672c5cc5f4580a7721f51a09d6, type: 3}
+  - _identifier: Ruby
+    _sprite: {fileID: 21300000, guid: 02b9433d7901c0846a10b0ed8f7d96f6, type: 3}
+  - _identifier: Sapphire
+    _sprite: {fileID: 21300000, guid: 906a31fda3b7a654fa5d75d283b916c3, type: 3}
+  - _identifier: Topaz
+    _sprite: {fileID: 21300000, guid: a05faf99db468984789395d316c8987a, type: 3}
